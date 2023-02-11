@@ -1,1 +1,1 @@
-# Intensive-Cloud-Training-Projects
+# Intensive-Cloud-Training-Project
