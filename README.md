@@ -21,18 +21,25 @@ Before we go deep into the project, if you are not familar with the technologies
 - [Hands-on with Docker and Cloud](https://github.com/TeKaiChou/Intensive-Cloud-Training-Project/blob/main/Hands-on%20Practice/Hands-on%20with%20Docker%20and%20Cloud.pdf)
 - [Hands-on with Kubernetes on Cloud](https://github.com/TeKaiChou/Intensive-Cloud-Training-Project/blob/main/Hands-on%20Practice/Hands-on%20with%20Kubernetes%20on%20Cloud.pdf)
 
-## Case Study - Define the problem
+## Case Study - Luxxy Covid Testing System (Define the problem)
 Thanks to intensive cloud training with real world case study information and data, we have the opportunity to use the most modern technologies and tools mentioned in practice to migrate real applications of luxury hotel chains to the cloud environment. Due to the covid-19 pandemic, hotels are required to keep testing records of customers' testing status to safely manage the hotel. The ever-increasing demand for network application traffic and data storage requires hotels to prepare more resources to deal with this situation. In this case, migrating the entire application and data to the cloud environment is a good solution, because the hotel does not have to worry about provisioning and managing instances and hardware itself, and the required resources can be scaled automatically based on demand. We will follow the instruction provided by the intensive cloud training step by step to understand the details of this project. I believe the real-world case does help us better understand how that knowledge and technologies were used in the market. Let's take a look at the solution architecture below: (You can also find the info of the project in the [link](https://thecloudbootcamp.com/en/pc-multicloud-event-icp2/?utm_source=youtube&utm_campaign=icp7-organic&utm_medium=linknadescricao&utm_content=cpl1&sck=&hl=).)
 
 
 ![image](https://user-images.githubusercontent.com/61730268/218293155-c0cfb94b-8c0c-48be-96e9-5f4aaa1b53f7.png)
 ![image](https://user-images.githubusercontent.com/61730268/218292567-ccc8ad53-c80a-4a82-bed1-5690e85a6298.png)
 
-## Mission 1: 
+## Mission 1: Resources Provision
 You'll learn how to enable a MultiCloud architecture deployment through Terraform, with resources running in AWS and Google Cloud Platform.
 
-## Mission 2: 
-You'll learn the process to convert a database and an application to run on the MultiCloud architecture (AWS and Google Cloud), including Docker and Kubernetes on this path.
+- Run terraform for configuration of cloud service on google cloud shell 
+- Provision AWS S3 Storage, Google Kubernetes Cluster, and Google SQL Database
 
-## Mission 3:
+
+## Mission 2: Application Deployment
+You'll learn the process to convert a database and an application to run on the MultiCloud architecture (AWS and Google Cloud), including Docker and Kubernetes on this path.
+push docker images to GCR 
+
+connect to Kubernetes
+
+## Mission 3: Database Migration
 For the final phase, you'll learn how to professionally migrate the application files and data from a database, an essential skill required by several companies in the Cloud migration process.
