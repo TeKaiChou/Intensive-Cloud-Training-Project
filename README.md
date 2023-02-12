@@ -29,9 +29,10 @@ Thanks to intensive cloud training with real world case study information and da
 ![image](https://user-images.githubusercontent.com/61730268/218292567-ccc8ad53-c80a-4a82-bed1-5690e85a6298.png)
 
 ## Mission 1: 
-
-
+You'll learn how to enable a MultiCloud architecture deployment through Terraform, with resources running in AWS and Google Cloud Platform.
 
 ## Mission 2: 
+You'll learn the process to convert a database and an application to run on the MultiCloud architecture (AWS and Google Cloud), including Docker and Kubernetes on this path.
 
 ## Mission 3:
+For the final phase, you'll learn how to professionally migrate the application files and data from a database, an essential skill required by several companies in the Cloud migration process.
