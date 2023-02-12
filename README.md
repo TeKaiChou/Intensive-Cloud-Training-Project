@@ -1,4 +1,4 @@
-# Intensive-Cloud-Training-Project [Link](https://thecloudbootcamp.com/en/pc-multicloud-event-icp2/?utm_source=youtube&utm_campaign=icp7-organic&utm_medium=linknadescricao&utm_content=cpl1&sck=&hl=)
+# Intensive-Cloud-Training-Project [(Link)](https://thecloudbootcamp.com/en/pc-multicloud-event-icp2/?utm_source=youtube&utm_campaign=icp7-organic&utm_medium=linknadescricao&utm_content=cpl1&sck=&hl=)
 *The data will not be provided here since all rights are reserved by @The Cloud Bootcamp. And this is just for learning and documenting only.
 
 ## Preface
@@ -14,9 +14,9 @@ Please don't worry about the expense of this project! You will not spend any mon
 - Database: Google Cloud SQL
 
 ## Case Study - Define the problem
-In this project, we will have an opportunity to use the most modern technologies and tools mentioned to work on migrating a real-world application of a luxury hotel chain to the cloud environment. Thanks to intensive cloud training for providing real-world case study information and data. We will follow the instruction provided by the intensive cloud training step by step to understand the details of this project. I believe the real-world case does help you better understand how that knowledge and technologies were used in practice in the market. Let's take a look at the solution architecture below:
+In this project, we will have an opportunity to use the most modern technologies and tools mentioned to work on migrating a real-world application of a luxury hotel chain to the cloud environment. Thanks to intensive cloud training for providing real-world case study information and data. We will follow the instruction provided by the intensive cloud training step by step to understand the details of this project. I believe the real-world case does help you better understand how that knowledge and technologies were used in practice in the market. Let's take a look at the solution architecture below: (You can also find the info of the project in the [link](https://thecloudbootcamp.com/en/pc-multicloud-event-icp2/?utm_source=youtube&utm_campaign=icp7-organic&utm_medium=linknadescricao&utm_content=cpl1&sck=&hl=).)
 
-
+![image](https://user-images.githubusercontent.com/61730268/218293155-c0cfb94b-8c0c-48be-96e9-5f4aaa1b53f7.png)
 ![image](https://user-images.githubusercontent.com/61730268/218292567-ccc8ad53-c80a-4a82-bed1-5690e85a6298.png)
 
 
