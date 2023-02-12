@@ -9,23 +9,29 @@ Let's back to the topic of [multi-cloud](https://www.juniper.net/us/en/research-
 Please don't worry about the expense of this project! You will not spend any money on this project! When signing up for new accounts of AWS and GCP, you will be on the free tier for AWS and have $300 credits for GCP to start your first cloud project. Sounds great? Let's start it! The cloud hosting providers and tools we will use are listed below:
 
 - Cloud Platform: AWS, GCP
-- Tools: Terraform, Docker, Kubernetes, GCR
+- Development Tools: Terraform, Docker, Kubernetes, GCR
 - Data Storage: AWS S3
 - Database: Google Cloud SQL
+
+## Hands-on Practice Before the Start
+Before we go deep into the project, if you are not familar with the technologies, we can start with hands-on practice. This section can help you better understand how to apply these development tools and technologies in practice. 
+
+*Note: To use the cloud service, we need to sign up for the accounts of AWS and GCP. 
+- [Hands-on with AWS and Terraform](https://github.com/TeKaiChou/Intensive-Cloud-Training-Project/blob/main/Mission1-Hands-on%20with%20AWS%20and%20Terraform.pdf)
+- [Hands-on with Docker and Cloud](https://github.com/TeKaiChou/Intensive-Cloud-Training-Project/blob/main/Mission2-Hands-on%20with%20Docker%20and%20Cloud.pdf)
+- [Hands-on with Kubernetes on Cloud](https://github.com/TeKaiChou/Intensive-Cloud-Training-Project/blob/main/Mission3-Hands-on%20with%20Kubernetes%20on%20Cloud.pdf)
 
 ## Case Study - Define the problem
 Thanks to intensive cloud training with real world case study information and data, we have the opportunity to use the most modern technologies and tools mentioned in practice to migrate real applications of luxury hotel chains to the cloud environment. Due to the covid-19 pandemic, hotels are required to keep testing records of customers' testing status to safely manage the hotel. The ever-increasing demand for network application traffic and data storage requires hotels to prepare more resources to deal with this situation. In this case, migrating the entire application and data to the cloud environment is a good solution, because the hotel does not have to worry about provisioning and managing instances and hardware itself, and the required resources can be scaled automatically based on demand. We will follow the instruction provided by the intensive cloud training step by step to understand the details of this project. I believe the real-world case does help us better understand how that knowledge and technologies were used in the market. Let's take a look at the solution architecture below: (You can also find the info of the project in the [link](https://thecloudbootcamp.com/en/pc-multicloud-event-icp2/?utm_source=youtube&utm_campaign=icp7-organic&utm_medium=linknadescricao&utm_content=cpl1&sck=&hl=).)
 
-THe 
 
 ![image](https://user-images.githubusercontent.com/61730268/218293155-c0cfb94b-8c0c-48be-96e9-5f4aaa1b53f7.png)
 ![image](https://user-images.githubusercontent.com/61730268/218292567-ccc8ad53-c80a-4a82-bed1-5690e85a6298.png)
 
-
-## Mission 1: Hands-on with AWS and Terraform
-
+## Mission 1: 
 
 
-## Mission 2: Hands-on with Docker and Cloud
 
-## Mission 3: Hands-on with Kubernetes on Cloud
+## Mission 2: 
+
+## Mission 3:
