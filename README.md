@@ -10,7 +10,7 @@ Let's back to the topic of [multi-cloud](https://www.juniper.net/us/en/research-
 Please don't worry about the expense of this project! You will not spend any money on this project! When signing up for new accounts of AWS and GCP, you will be on the free tier for AWS and have $300 credits for GCP to start your first cloud project. Sounds great? Let's start it! The cloud hosting providers and tools we will use are listed below:
 
 - Cloud Platform: AWS, GCP
-- Development Tools: Terraform, Docker, Kubernetes, GCR
+- Development Tools: Terraform, Docker, Kubernetes, Container Registry
 - Data Storage: AWS S3
 - Database: Google Cloud SQL
 
@@ -29,18 +29,29 @@ Thanks to intensive cloud training with real world case study information and da
 ![image](https://user-images.githubusercontent.com/61730268/218293155-c0cfb94b-8c0c-48be-96e9-5f4aaa1b53f7.png)
 ![image](https://user-images.githubusercontent.com/61730268/218292567-ccc8ad53-c80a-4a82-bed1-5690e85a6298.png)
 
-## Mission 1: Resources Provision
-You'll learn how to enable a MultiCloud architecture deployment through Terraform, with resources running in AWS and Google Cloud Platform.
+## [Mission 1: Resources Provision](https://github.com/TeKaiChou/Intensive-Cloud-Training-Project/blob/main/Hands-on%20Project/Mission1/Steps%20to%20implement%20Hands-on%20Project%20-%20Mission%201.pdf)
+You'll learn how to enable a MultiCloud architecture deployment through Terraform, with resources running in AWS and Google Cloud Platform. To be specific, you will know how to:
 
-- Run terraform for configuration of cloud service on google cloud shell 
-- Provision AWS S3 Storage, Google Kubernetes Cluster, and Google SQL Database
+- Create new IAM user with its credentials (access keys and secret access keys) via AWS console
+- Use terraform to provision infrastructure resources across multiple cloud platform (multi-cloud conept) on Google Cloud Shell, including AWS S3, Google Container Registry (GCR),  Google Kubernetes Engine (GKE), and Google Cloud SQL 
 
 
-## Mission 2: Application Deployment
-You'll learn the process to convert a database and an application to run on the MultiCloud architecture (AWS and Google Cloud), including Docker and Kubernetes on this path.
-push docker images to GCR 
+## [Mission 2: Application Deployment](https://github.com/TeKaiChou/Intensive-Cloud-Training-Project/blob/main/Hands-on%20Project/Mission2/Steps%20to%20implement%20Hands-on%20Project%20-%20Mission%202.pdf)
+You'll learn the process to convert a database and an application to run on the MultiCloud architecture (AWS and Google Cloud), including Docker and Kubernetes on this path. To be specific, you will know how to:
 
-connect to Kubernetes
+- Setup and connect to MySQL database on Google Cloud SQL instance that we provision in mission 1
+- Build the Docker image and push it to GCR (images storage)
+- Connect to the GKE cluster and deploy the application Luxxy in the cluster
 
-## Mission 3: Database Migration
-For the final phase, you'll learn how to professionally migrate the application files and data from a database, an essential skill required by several companies in the Cloud migration process.
+When you land here, your application successfully runs on the cloud!
+
+## [Mission 3: Database Migration](https://github.com/TeKaiChou/Intensive-Cloud-Training-Project/blob/main/Hands-on%20Project/Mission3/Steps%20to%20implement%20Hands-on%20Project%20-%20Mission%203.pdf)
+For the final phase, you'll learn how to professionally migrate the application files and data from a database, an essential skill required by several companies in the Cloud migration process. To be specific, you will know how to:
+
+- Migrate database to google cloud SQL with MySQL database
+- Migrate pdf files through AWS Cloud Shell (CLI)
+
+You're done! 
+
+## [Final Step: Resources Deletion](https://github.com/TeKaiChou/Intensive-Cloud-Training-Project/blob/main/Hands-on%20Project/How%20to%20delete%20the%20Multiple%20Cloud%20Providers%20resources.pdf)
+Remember to delete all resources that you will not use anymore to stop being charged by cloud service!!!
