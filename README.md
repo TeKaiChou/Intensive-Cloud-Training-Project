@@ -1,6 +1,10 @@
 # Intensive-Cloud-Training-Project [(Link)](https://thecloudbootcamp.com/en/pc-multicloud-event-icp2/?utm_source=youtube&utm_campaign=icp7-organic&utm_medium=linknadescricao&utm_content=cpl1&sck=&hl=)
 The data and files are just for learning and documenting only. All rights reserved by © The Cloud Bootcamp. (Created for educational purposes only - prohibited production)
 
+[Certificate Link](https://app.thecloudbootcamp.com/certificates/tzegezdjy9)
+![image](https://user-images.githubusercontent.com/61730268/222814100-bf8939df-70c2-4ed4-9693-d96d31dedde6.png)
+
+
 ## Preface
 A few weeks ago, I passed the AWS Certified Cloud Practitioner (CCP) exam. The certificate is worth a lot to me and can help me go further in my career path since there is a trend for using cloud service to better maintain the company's application securely and costlessly. I highly recommend this exam for every cloud beginner since it would tell and illustrate how the cloud services work to achieve their purposes(ex: low latency, highly available, and so on). Don't worry, it's definitely related to the data science area that you and I are pursuing. Yes, I'm referring to the MLOps, deploying and maintaining machine learning models to production reliably and efficiently. Everything is relevant and works with each other, so don't be afraid to learn the cloud service!
 
